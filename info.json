@@ -1,0 +1,8 @@
+{
+  "name": "(Skyrim) Save Game Installer SGI - Vortex",
+  "author": "NIIMT",
+  "version": "1.0",
+  "description": "Moves .ess (and matching .skse) from Data/ into the correct Saves folder, with the game (LE vs SE/AE) chosen in a user config.",
+  "api": "1.0.0",
+  "main": "index.js"
+}
